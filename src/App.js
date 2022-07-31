@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Search from "./Search";
+import Pagination from "./Pagination";
+import Stories from "./Stories";
+import "./App.css";
+// import { useContext } from "react";
+// import { AppContext } from "./context";  created custom hook below so no need of them
+// import { useGlobalContext } from "./context";
 
-function App() {
+const App = () => {
+  // const data = useContext(AppContext);   now call using custom hook
+  // const data = useGlobalContext();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <>
+      {/* <div>Welcome to the Tech News Website which is made using React</div>  */}
+      <Search />
+      <Pagination />
+      <Stories />
+      </>
   );
-}
+};
 
 export default App;
