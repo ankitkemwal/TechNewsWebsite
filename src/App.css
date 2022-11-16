@@ -8,8 +8,10 @@
   font-family: "Poppins", sans-serif; 
 }
 
+/* 1 rem = 16px || 62.5 = 10px = 1rem */
+/* set default ie 1 rem = 10 px will be considered now */
 html {
-  font-size: 62.5%;
+  font-size: 62.5%;    
 }
 
 body {
@@ -115,7 +117,7 @@ button {
 }
 
 /* responsive layout  */
-
+/* apply these css propr to device having width <998 pixel */
 @media (max-width: 998px) {
   html {
     font-size: 56%;
@@ -127,11 +129,12 @@ button {
   }
 }
 
+/* upto 768px width use these properties */
 @media (max-width: 768px) {
   html {
     font-size: 51%;
   }
-
+  /* properties of the stories card */
   .card {
     min-width: 35rem;
     padding: 2rem;
