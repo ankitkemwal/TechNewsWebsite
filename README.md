@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![image](https://user-images.githubusercontent.com/86829818/226824589-1d630915-a5c4-4d88-b3ec-24e130489d8e.png)
+
+![image](https://user-images.githubusercontent.com/86829818/226824663-7c574607-bf40-43a2-afd4-c691bcd208c8.png)
+
+![image](https://user-images.githubusercontent.com/86829818/226824735-07e67eaa-35bd-4543-89f2-677d224ebde6.png)
+
+![image](https://user-images.githubusercontent.com/86829818/226824836-85a140f8-9367-454a-8796-2843e7583578.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -71,11 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 link: https://ankitnews.netlify.app/
 
-![image](https://user-images.githubusercontent.com/86829818/226824589-1d630915-a5c4-4d88-b3ec-24e130489d8e.png)
-
-![image](https://user-images.githubusercontent.com/86829818/226824663-7c574607-bf40-43a2-afd4-c691bcd208c8.png)
-
-![image](https://user-images.githubusercontent.com/86829818/226824735-07e67eaa-35bd-4543-89f2-677d224ebde6.png)
-
-![image](https://user-images.githubusercontent.com/86829818/226824836-85a140f8-9367-454a-8796-2843e7583578.png)
 
